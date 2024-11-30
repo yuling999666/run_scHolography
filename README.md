@@ -4,3 +4,4 @@ Adjust slice positions relative to a reference for each DLPFC sample. ['151507',
                                                                       ['151673', '151674', '151675', '151676'] 151673 is the reference
                                                 
 Compute alignment matrix, LAA and ARI. 
+Use 4 slices in each sample to reconstruct 3D structure. 
